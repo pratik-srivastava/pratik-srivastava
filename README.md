@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratik-srivastava
-- 👀 I’m interested in ...Dbmongo and sql
+- 👀 I’m interested in ...Mongodb and sql
 - 🌱 I’m currently learning ...PYTHON
 - 💞️ I’m looking to collaborate on ...Open Source
 - 📫 How to reach me ...
